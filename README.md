@@ -16,3 +16,13 @@ Dijkstar求最短路
 	- （3）重复上述步骤，直到S中包含所有顶点，即S=V为止（说明最外层是除起点外的遍历）
 
 ## 例题分析
+假若有如下有向图，从V0出发，求各个点的最短路径
+![image](https://github.com/Aplicity/Dijkstar/blob/master/question.png)
+
+求解方法过程如下：
+![image](https://github.com/Aplicity/Dijkstar/blob/master/answer.png)
+
+## 代码
+ * Matlab脚步：BSmodel2.m(主程序)、SFNG.m、loop1D.m、findminpath.m
+ * Python: mian.py
+ 
